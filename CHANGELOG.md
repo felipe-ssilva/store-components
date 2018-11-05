@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 
 ## [Unreleased]
 ### Fixed
-- Assing correct size to arrow element.
+- Assign correct size to arrow element.
 
 ## [2.4.3] - 2018-10-31
 ### Fixed
